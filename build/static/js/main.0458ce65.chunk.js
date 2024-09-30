@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[0],{12:function(e,t,n){},13:function(e,t,n){"use strict";n.r(t);var o=n(0),a=n.n(o),r=n(2),c=n.n(r);n(12);var l=function(){return a.a.createElement("div",null,a.a.createElement("h1",null,"Welcome to Mahtab's Portfolio!"))};c.a.createRoot(document.getElementById("root")).render(a.a.createElement(a.a.StrictMode,null,a.a.createElement(l,null)))},3:function(e,t,n){e.exports=n(13)}},[[3,1,2]]]);
+//# sourceMappingURL=main.0458ce65.chunk.js.map
